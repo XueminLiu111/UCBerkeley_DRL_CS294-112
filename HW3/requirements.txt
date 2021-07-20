@@ -1,0 +1,8 @@
+gym==0.10.5
+gym[atari]
+box2d
+mujoco200
+tensorflow
+numpy
+seaborn
+opencv-python

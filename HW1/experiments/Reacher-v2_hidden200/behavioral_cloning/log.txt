@@ -1,0 +1,79 @@
+Number of params: 83202
+Beginning training loop...
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc0.mp4
+epoch 5, iter 20, loss 0.00667, smoothed loss 0.02350, grad norm 0.04471, param norm 20.62076, val loss 0.00427
+epoch 5, iter 20, mean return -11.596571762259696, std of return 2.6550061679506447
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 5. Time for epoch: 0.3522026538848877
+epoch 10, iter 40, loss 0.00422, smoothed loss 0.02001, grad norm 0.03975, param norm 20.64347, val loss 0.00323
+epoch 10, iter 40, mean return -8.994498369951128, std of return 3.887938589084898
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 10. Time for epoch: 0.31923723220825195
+epoch 15, iter 60, loss 0.00277, smoothed loss 0.01685, grad norm 0.03856, param norm 20.67915, val loss 0.00266
+epoch 15, iter 60, mean return -8.037904480113307, std of return 2.40141613463897
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 15. Time for epoch: 0.29961395263671875
+epoch 20, iter 80, loss 0.00112, smoothed loss 0.01409, grad norm 0.01934, param norm 20.71840, val loss 0.00163
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc20.mp4
+epoch 20, iter 80, mean return -9.088553661647655, std of return 1.7963299653894074
+End of epoch 20. Time for epoch: 10.186256170272827
+epoch 25, iter 100, loss 0.00150, smoothed loss 0.01175, grad norm 0.04278, param norm 20.75231, val loss 0.00146
+epoch 25, iter 100, mean return -6.579603131987637, std of return 2.236699559452157
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 25. Time for epoch: 0.3175501823425293
+epoch 30, iter 120, loss 0.00123, smoothed loss 0.00980, grad norm 0.02400, param norm 20.77942, val loss 0.00121
+epoch 30, iter 120, mean return -7.022860334953829, std of return 2.2742601983705737
+End of epoch 30. Time for epoch: 0.2875211238861084
+epoch 35, iter 140, loss 0.00112, smoothed loss 0.00817, grad norm 0.03129, param norm 20.80429, val loss 0.00108
+epoch 35, iter 140, mean return -6.309379906613019, std of return 1.9803438738390255
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 35. Time for epoch: 0.2904658317565918
+epoch 40, iter 160, loss 0.00062, smoothed loss 0.00681, grad norm 0.01225, param norm 20.82695, val loss 0.00122
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc40.mp4
+epoch 40, iter 160, mean return -6.483363682966809, std of return 2.8514051530069393
+End of epoch 40. Time for epoch: 10.13923978805542
+epoch 45, iter 180, loss 0.00087, smoothed loss 0.00569, grad norm 0.02976, param norm 20.84883, val loss 0.00119
+epoch 45, iter 180, mean return -7.10024465741161, std of return 2.5637305978092297
+End of epoch 45. Time for epoch: 0.26970410346984863
+epoch 50, iter 200, loss 0.00050, smoothed loss 0.00476, grad norm 0.01136, param norm 20.86915, val loss 0.00087
+epoch 50, iter 200, mean return -5.968159487177934, std of return 1.7612634878981563
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 50. Time for epoch: 0.30780816078186035
+epoch 55, iter 220, loss 0.00044, smoothed loss 0.00399, grad norm 0.00983, param norm 20.88628, val loss 0.00089
+epoch 55, iter 220, mean return -8.509283188020307, std of return 2.7530270171062567
+End of epoch 55. Time for epoch: 0.28593993186950684
+epoch 60, iter 240, loss 0.00047, smoothed loss 0.00335, grad norm 0.01138, param norm 20.89911, val loss 0.00089
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc60.mp4
+epoch 60, iter 240, mean return -5.661531861962363, std of return 2.1436637215325742
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 60. Time for epoch: 10.153409957885742
+epoch 65, iter 260, loss 0.00038, smoothed loss 0.00281, grad norm 0.01490, param norm 20.91448, val loss 0.00090
+epoch 65, iter 260, mean return -5.521398623402158, std of return 2.110411551191669
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 65. Time for epoch: 0.2962770462036133
+epoch 70, iter 280, loss 0.00042, smoothed loss 0.00238, grad norm 0.00980, param norm 20.93253, val loss 0.00080
+epoch 70, iter 280, mean return -5.061258834959319, std of return 2.3331271286077926
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/best_checkpoint/m_best.ckpt ...
+End of epoch 70. Time for epoch: 0.3087031841278076
+epoch 75, iter 300, loss 0.00034, smoothed loss 0.00201, grad norm 0.01177, param norm 20.94740, val loss 0.00071
+epoch 75, iter 300, mean return -5.484329013527711, std of return 2.4813574934818954
+End of epoch 75. Time for epoch: 0.27361392974853516
+epoch 80, iter 320, loss 0.00045, smoothed loss 0.00172, grad norm 0.01998, param norm 20.96485, val loss 0.00067
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc80.mp4
+epoch 80, iter 320, mean return -5.607623255006581, std of return 2.451772541792046
+End of epoch 80. Time for epoch: 10.155427694320679
+epoch 85, iter 340, loss 0.00046, smoothed loss 0.00147, grad norm 0.01364, param norm 20.97770, val loss 0.00050
+epoch 85, iter 340, mean return -7.192645781852494, std of return 2.9524933218709197
+End of epoch 85. Time for epoch: 0.26804208755493164
+epoch 90, iter 360, loss 0.00034, smoothed loss 0.00126, grad norm 0.02072, param norm 20.99385, val loss 0.00055
+epoch 90, iter 360, mean return -6.166694273153135, std of return 1.6286582485201189
+End of epoch 90. Time for epoch: 0.2746880054473877
+epoch 95, iter 380, loss 0.00046, smoothed loss 0.00110, grad norm 0.01022, param norm 21.01367, val loss 0.00062
+epoch 95, iter 380, mean return -6.2728653263329575, std of return 2.669994706402264
+End of epoch 95. Time for epoch: 0.2709181308746338
+epoch 100, iter 400, loss 0.00026, smoothed loss 0.00095, grad norm 0.00811, param norm 21.02666, val loss 0.00043
+Starting new video recorder writing to experiments/Reacher-v2/Reacher-v2_bc_h200_epc100.mp4
+epoch 100, iter 400, mean return -5.516003128699933, std of return 1.750394569651279
+End of epoch 100. Time for epoch: 10.106381177902222
+Saving to ./experiments/Reacher-v2_hidden200/behavioral_cloning/m.ckpt ...
+best: mean return -5.061258834959319, std of return 2.3331271286077926

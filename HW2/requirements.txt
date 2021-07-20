@@ -1,0 +1,6 @@
+mujoco200
+gym==0.10.5
+tensorflow==1.10.0
+numpy==1.14.5
+seaborn
+Box2D==2.3.2
